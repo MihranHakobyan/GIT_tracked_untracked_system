@@ -1,0 +1,15 @@
+{
+  "name": "paths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gitSystem.js",
+  "scripts": {
+    "start": "node run.js",
+    "dev": "nodemon run.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
